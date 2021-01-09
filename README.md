@@ -1,4 +1,4 @@
-# Mathematics-
+# Mathematics
 Mathematics for Computer Science and Mathematics for Machine Learning
 
 
